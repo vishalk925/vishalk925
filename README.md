@@ -115,12 +115,30 @@ A planned full-stack application combining MERN with a Generative AI API.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vishalk925&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk925&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalk925&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=67E8F9&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vishalk925&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk925&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=vish
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vishalk925&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="95%"
+  />
+</p>
