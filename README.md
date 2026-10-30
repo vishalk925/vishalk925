@@ -115,30 +115,12 @@ A planned full-stack application combining MERN with a Generative AI API.
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vishalk925&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk925&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="180"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=vishalk925&theme=tokyonight&show_icons=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=vishalk925&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vishalk925&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="95%"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishalk925&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
