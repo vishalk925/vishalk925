@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=7C3AED&background=0D1117&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Vishal+Kumar;Full-Stack+Developer;Problem+Solver;Building+scalable+products" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=F8FAFC&background=0B1020&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Vishal+Kumar;Full-Stack+Developer;Product-Focused+Builder;Building+scalable+systems" alt="Typing banner" />
 </div>
 
-<h1 align="center">🚀 Vishal Kumar</h1>
+<h1 align="center" style="color:#F8FAFC; font-weight:700;">Vishal Kumar</h1>
 
 <p align="center">
   <a href="https://github.com/vishalk925" target="_blank">
@@ -17,26 +17,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Active-8B5CF6?style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Repositories-Open-22C55E?style=for-the-badge" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06B6D4?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Active-8B5CF6?style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06B6D4?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Projects-Real%20World-22C55E?style=for-the-badge" alt="Real World" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I build modern digital products that combine strong user experience, clean code, and scalable architecture.
+I design and build modern web products with a strong focus on usability, performance, and scalable architecture. My work spans frontend experiences, backend systems, and product-driven solutions that solve real user problems.
 
-- 💻 Full-stack web development
-- ⚙️ Backend APIs and system design
-- ☁️ Deployment and production workflows
-- 📊 Product-focused thinking and dashboard experiences
-- 🌱 Constantly learning and shipping better solutions
+- Full-stack development
+- API design and system architecture
+- Web app performance and accessibility
+- Product-focused UX and frontend implementation
+- Shipping meaningful, maintainable solutions
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -53,57 +53,71 @@ I build modern digital products that combine strong user experience, clean code,
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <a href="https://github.com/vishalk925" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   <a href="https://github.com/vishalk925?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="View repositories" />
+    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="View Repositories" />
   </a>
   <a href="https://github.com/vishalk925" target="_blank">
-    <img src="https://img.shields.io/badge/Contribution%20Graph-Open-8B5CF6?style=for-the-badge" alt="Contribution graph" />
+    <img src="https://img.shields.io/badge/Activity-Developer%20Journey-8B5CF6?style=for-the-badge" alt="Activity" />
   </a>
 </p>
 
-> The stats widgets below depend on external image generation services and may be blocked in some browser wrappers. To keep your profile reliable, the main visible profile now uses stable badge-based sections and direct GitHub links.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Builds-Real%20Products-22C55E?style=flat-square" alt="Builds" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Focus-Product%20Engineering-06B6D4?style=flat-square" alt="Focus" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Workflow-CI%2FCD-8B5CF6?style=flat-square" alt="Workflow" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/vishalk925/bloodcare-blood-donation-system">
-    <img src="https://img.shields.io/badge/BloodCare-Full%20Stack%20Project-8B5CF6?style=for-the-badge" alt="BloodCare" />
+    <img src="https://img.shields.io/badge/BloodCare-Full%20Stack%20Project-8B5CF6?style=for-the-badge" alt="BloodCare Project" />
   </a>
   <a href="https://github.com/vishalk925/Vishal-Sharma-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Developer%20Portfolio-F59E0B?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Developer%20Portfolio-F59E0B?style=for-the-badge" alt="Developer Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vishalk925/Vishal-Sharma-developer-">
-    <img src="https://img.shields.io/badge/Developer%20Portfolio-UI%2FUX-22C55E?style=for-the-badge" alt="Developer Portfolio" />
+    <img src="https://img.shields.io/badge/Developer%20Portfolio-UI%2FUX-22C55E?style=for-the-badge" alt="UI/UX Portfolio" />
   </a>
   <a href="https://github.com/vishalk925/Vishal-Sharma-Portfolio-">
-    <img src="https://img.shields.io/badge/Profile%20V2-Modern%20Landing%20Page-E11D48?style=for-the-badge" alt="Portfolio V2" />
+    <img src="https://img.shields.io/badge/Portfolio%20V2-Modern%20Landing%20Page-E11D48?style=for-the-badge" alt="Modern Landing Page" />
   </a>
 </p>
 
 ---
 
-## 🏆 Current Focus
+## Current Focus
 
-- Building polished full-stack applications
-- Designing clean, scalable frontend experiences
-- Improving backend performance and reliability
-- Exploring deployment and automation workflows
-- Creating solutions that solve meaningful problems
+- Building polished, production-ready full-stack experiences
+- Improving developer workflows and system reliability
+- Designing clean frontend interfaces with strong UX
+- Exploring cloud deployment and automation practices
+- Creating software that solves meaningful real-world problems
 
 ---
 
-## 📲 Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/vishalk925" target="_blank">
@@ -115,5 +129,5 @@ I build modern digital products that combine strong user experience, clean code,
 </p>
 
 <p align="center">
-  <i>“Code is creativity with structure.”</i>
+  <i>Code is creativity with structure.</i>
 </p>
