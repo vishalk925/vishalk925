@@ -30,7 +30,9 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Developing+with+the+MERN+Stack;Building+real-world+web+applications;Open+to+junior+roles+and+freelance+projects;Exploring+Generative+AI+and+LLM+applications" alt="Animated developer introduction" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Developing+with+the+MERN+Stack;Building+Modern+Full-Stack+Applications;Creating+Responsive+React.js+Interfaces;Developing+REST+APIs+with+Node.js;Turning+Ideas+into+Real-World+Projects;Exploring+Generative+AI+and+LLMs;Open+to+Work+%7C+Available+for+Freelance" alt="Dynamic developer typing animation" />
+</div>
 
 </div>
 
