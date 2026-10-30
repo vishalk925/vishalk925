@@ -1,25 +1,36 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- =========================================================
+     VISHAL SHARMA | FULL-STACK DEVELOPER + GENAI BUILDER
+     GitHub Profile README
+     ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Vishal%20Sharma&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Generative%20AI%20Builder&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Vishal Sharma profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:0891B2&text=Vishal%20Sharma&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Web%20Applications&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Vishal Sharma profile banner" />
 
-<a href="https://github.com/vishalk925">
-  <img src="https://img.shields.io/badge/GitHub-vishalk925-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/vishalk925/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://vishal-sharma-portfolio-smoky.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:vishalk925@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <h3>Building useful products. Solving real problems. Learning what's next.</h3>
 
-<br/>
+  <p>
+    <img src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
+    <img src="https://img.shields.io/badge/FREELANCE-2563EB?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance" />
+    <img src="https://img.shields.io/badge/EXPLORING-GENERATIVE_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Exploring Generative AI" />
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;MERN+Stack+%7C+React+%7C+Node.js;Exploring+Generative+AI+and+LLM+applications;Open+to+Work+%7C+Open+to+Freelance" alt="Animated developer introduction" />
+  <p>
+    <a href="https://github.com/vishalk925">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    </a>
+    <a href="https://www.linkedin.com/in/vishalk925/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://vishal-sharma-portfolio-smoky.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:vishalsharmaa776397@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Developing+with+the+MERN+Stack;Building+real-world+web+applications;Open+to+junior+roles+and+freelance+projects;Exploring+Generative+AI+and+LLM+applications" alt="Animated developer introduction" />
 
 </div>
 
@@ -27,216 +38,209 @@
 
 ## 👋 About Me
 
-Hi! I'm **Vishal Sharma**, a developer focused on building useful, responsive, and user-friendly web applications.
+I'm **Vishal Sharma**, a developer focused on building practical, user-friendly web applications with the MERN stack.
 
-I enjoy turning ideas into working products using modern web technologies. I'm also exploring how Generative AI can make applications more useful and intelligent.
+I enjoy turning ideas into working products, improving user experiences, and learning technologies that help solve real-world problems.
 
-- 💻 Focus: **MERN Stack Development**
-- ⚛️ Frontend: React.js, JavaScript, HTML5, CSS3
-- 🛠️ Backend: Node.js, Express.js, REST APIs
-- 🗄️ Database: MongoDB
-- 🤖 Exploring: Generative AI, LLM APIs, prompt engineering, and RAG
-- 🚀 Goal: Build real-world applications and grow as a full-stack developer
-- 💼 Interested in developer internships, junior roles, and freelance projects
+- 💻 Focused on full-stack web development with React.js, Node.js, Express.js and MongoDB.
+- 🩸 Built **BloodCare**, a blood donation-focused web application.
+- 🏡 Developing **Smart Village Connect**, a community-focused application.
+- 🤖 Exploring Generative AI, LLM APIs and AI-powered application development.
+- 💼 Interested in junior developer roles, internships and suitable freelance projects.
+- 📚 Continuously improving my development, problem-solving and software engineering skills.
+
+> My goal is to build reliable applications that are useful to real people and businesses.
 
 ---
 
 ## 💼 Open to Work & Freelance
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Career Opportunities
-
-- MERN Stack Developer Intern
-- Junior Full-Stack Developer
-- React.js Developer
-- Node.js Developer
-- Entry-Level Software Developer
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Freelance Services
-
-- Responsive website development
-- React.js web applications
-- REST API development
-- MongoDB integration
-- Website improvements and bug fixes
-- AI-powered web application prototypes
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Career Opportunities</h3>
+      <ul>
+        <li>MERN Stack Developer Intern</li>
+        <li>Junior Full-Stack Developer</li>
+        <li>React.js Developer</li>
+        <li>Entry-Level Web Developer</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Freelance Services</h3>
+      <ul>
+        <li>Responsive business websites</li>
+        <li>React.js interfaces and landing pages</li>
+        <li>REST API development and integration</li>
+        <li>MongoDB integration and web application features</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <a href="mailto:vishalk925@gmail.com?subject=Developer%20Job%20Opportunity">
-    <img src="https://img.shields.io/badge/OPEN%20TO-WORK-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
-  </a>
-  <a href="mailto:vishalk925@gmail.com?subject=Freelance%20Project%20Inquiry">
-    <img src="https://img.shields.io/badge/AVAILABLE-FOR%20FREELANCE-2563EB?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Freelance" />
-  </a>
+  <b>Have a role, project, or collaboration in mind?</b><br/>
+  <a href="mailto:vishalsharmaa776397@gmail.com">Contact me by email</a> ·
+  <a href="https://www.linkedin.com/in/vishalk925/">Connect on LinkedIn</a> ·
+  <a href="https://vishal-sharma-portfolio-smoky.vercel.app/">Visit my portfolio</a>
 </p>
-
-<p align="center">
-  <b>Have an opportunity or a project idea?</b><br/>
-  <a href="mailto:vishalk925@gmail.com">📩 Let's discuss it</a>
-</p>
-
----
-
-## 🧰 Technology Stack
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend technologies" />
-</p>
-
-### 🤖 Generative AI & AI Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="AI development tools" />
-</p>
-
-Areas I'm exploring:
-
-- Large language model APIs
-- Prompt engineering
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and semantic search
-- AI integrations in web applications
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Development tools" />
-</p>
-
-*Technology icons are a visual overview, not proof of professional experience. Keep only the technologies you have used or are actively learning.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩸 1. BloodCare — Blood Donation System
+### 🩸 BloodCare — Blood Donation Web Application
 
-A web project focused on blood donation and connecting people with blood donation resources.
-
-**Project objectives**
-- Provide a digital platform for blood donation-related workflows.
-- Build a user-friendly web interface.
-- Connect frontend components with backend functionality.
-- Practise full-stack development and deployment.
-
-**Technology stack:** React.js · Node.js · Express.js · MongoDB · JavaScript
+A web application focused on blood donation activities and blood-request workflows.
 
 <p align="center">
   <a href="https://bloodcare-blood-donation-system.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Project-2563EB?style=for-the-badge" alt="BloodCare live demo" />
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_BloodCare-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="BloodCare live demo" />
   </a>
   <a href="https://github.com/vishalk925/bloodcare-blood-donation-system">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="BloodCare source code" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-View_Repository-181717?style=for-the-badge&logo=github" alt="BloodCare source code" />
   </a>
 </p>
 
----
+**Project highlights**
+- Dashboard interface for blood donation activities.
+- Blood-request interface.
+- Donor availability information.
+- A dedicated interface for a blood donation use case.
 
-### 🏡 2. Smart Village Connect
+**Technology:** React.js · Node.js · Express.js · MongoDB
 
-A community-focused project exploring how digital tools can make village information and services more accessible.
-
-**Planned features**
-- Hindi and English language support
-- User authentication
-- Role-based access
-- Community information and services
-- Administrative dashboard
-- MongoDB integration
-
-**Technology stack:** React.js · Node.js · Express.js · MongoDB
-
-**Status:** In development. Features should be marked complete only after they have been implemented and tested.
-
----
-
-### 🤖 3. AI-Powered Web Application
-
-My next project direction is to combine full-stack development with Generative AI.
-
-**Possible project:** AI Resume & Interview Assistant
-
-**Planned features**
-- Accept a resume and job description.
-- Generate relevant interview practice questions.
-- Use an LLM API for AI-powered responses.
-- Provide a responsive React interface.
-- Connect the frontend to a backend API.
-
-**Planned technology stack:** React.js · Node.js · Express.js · LLM API
-
-**Status:** Planned — not yet presented as a completed project.
-
----
-
-## 📚 Currently Learning
-
-| Area | Learning Focus |
-|---|---|
-| Full-Stack Development | React, Node.js, Express, MongoDB |
-| API Development | REST APIs, request validation, error handling |
-| Authentication | Secure password handling, authorization, roles |
-| Deployment | Hosting, environment variables, production debugging |
-| Generative AI | LLM APIs, prompt engineering, RAG fundamentals |
-| Software Quality | Git workflows, testing, debugging, documentation |
-
----
-
-## 🎯 Development Roadmap
-
-- [x] Build a MERN Stack project
-- [x] Deploy the BloodCare project
-- [ ] Complete and document Smart Village Connect
-- [ ] Add project screenshots and feature demonstrations
-- [ ] Build and deploy a working Generative AI application
-- [ ] Add automated tests and CI workflows to suitable projects
-- [ ] Continue contributing code and improving project documentation
-
----
-
-## 📊 GitHub Contributions
-
-Explore my repositories and recent development work:
+<!-- Upload your screenshots into the assets folder before enabling these images. -->
+<!--
+<p align="center">
+  <img src="./assets/bloodcare-dashboard.png" width="90%" alt="BloodCare dashboard" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/vishalk925?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
-  </a>
-  <a href="https://github.com/vishalk925?tab=overview">
-    <img src="https://img.shields.io/badge/View-My%20Profile-2563EB?style=for-the-badge&logo=github" alt="View GitHub profile" />
-  </a>
+  <img src="./assets/bloodcare-requests.png" width="90%" alt="BloodCare blood requests" />
 </p>
+-->
+
+### 🏡 Smart Village Connect — In Development
+
+A community-focused application intended to improve access to village information and services through digital tools.
+
+**Planned capabilities**
+- Hindi and English language support.
+- User authentication and role-based access.
+- Community information and service discovery.
+- Administrative dashboard.
+- Database-backed application features.
+
+**Planned technology:** React.js · Node.js · Express.js · MongoDB
+
+**Status:** In development. Some features are still being implemented.
+
+<!-- Replace this placeholder with the actual repository URL once confirmed. -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-In_Development-F59E0B?style=flat-square" alt="In development" />
+</p>
+
+### 🤖 AI Knowledge Assistant — Planned Project
+
+A planned Generative AI application designed to answer questions using a collection of user-provided documents.
+
+**Learning and development goals**
+- Integrate an LLM API.
+- Experiment with prompt engineering.
+- Generate embeddings and retrieve relevant document content.
+- Explore retrieval-augmented generation (RAG).
+- Build a clean interface for question answering.
+
+**Status:** Planned learning project — not yet presented as a completed application.
+
+---
+
+## 🧰 Technology Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
+</p>
+
+### Database and Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman" alt="MongoDB Git GitHub VS Code Postman" />
+</p>
+
+### Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel and Netlify" />
+</p>
+
+### Generative AI — Learning Focus
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_APIs-Learning-7C3AED?style=flat-square" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Learning-7C3AED?style=flat-square" alt="Prompt engineering" />
+  <img src="https://img.shields.io/badge/Embeddings-Exploring-7C3AED?style=flat-square" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/RAG-Exploring-7C3AED?style=flat-square" alt="RAG" />
+</p>
+
+*I distinguish between technologies I've used in projects and technologies I'm currently learning.*
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalk925&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub profile statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk925&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most-used programming languages" />
+
+</div>
+
+<p align="center">
+  <i>Statistics are provided by an external service and may occasionally be unavailable.</i>
+</p>
+
+---
+
+## 🌱 Current Learning Roadmap
+
+- [x] Build and deploy a full-stack project.
+- [x] Work with React.js and JavaScript.
+- [x] Develop with Node.js and Express.js.
+- [ ] Strengthen TypeScript and application architecture skills.
+- [ ] Build and deploy an AI application using an LLM API.
+- [ ] Learn embeddings and retrieval-augmented generation.
+- [ ] Add automated testing and CI workflows to suitable projects.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, recruiters, founders, and clients who are building useful digital products.
-
 <p align="center">
-  <a href="mailto:vishalk925@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  <a href="https://github.com/vishalk925">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/vishalk925/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://vishal-sharma-portfolio-smoky.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logo
+    <img src="https://img.shields.io/badge/Portfolio-View_Website-0891B2?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:vishalsharmaa776397@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <h3>Thanks for visiting my profile! ⭐</h3>
+  <p><i>Building, learning, and improving one project at a time.</i></p>
+</div>
