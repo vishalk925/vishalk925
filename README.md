@@ -112,9 +112,49 @@ A planned full-stack application combining MERN with a Generative AI API.
 | 06 | Evaluation, security, and deployment | More reliable AI application |
 
 ---
+## 💼 Open to Work | Available for Freelance Projects
 
-## 📊 GitHub Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 👨‍💻 Career Opportunities
+
+- MERN Stack Developer Internships
+- Junior Full-Stack Developer
+- React.js Developer
+- Node.js Developer
+- Entry-Level Software Developer
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Freelance Services
+
+- Responsive Website Development
+- React.js Web Applications
+- REST API Development
+- MongoDB Database Integration
+- AI-Powered Web Applications
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/vishalk925">
+    <img src="https://img.shields.io/badge/OPEN%20TO-WORK-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  </a>
+  <a href="https://www.thefirstplate.in/">
+    <img src="https://img.shields.io/badge/AVAILABLE-FOR%20FREELANCE-2563EB?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Freelance" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Have a job opportunity or a project in mind?</b><br/>
+  <a href="mailto:vishalk925@gmail.com">📩 Contact Me</a> ·
+  <a href="https://vishal-sharma-portfolio-smoky.vercel.app/">🌐 View My Portfolio</a>
+</p>
 ## 📊 GitHub Analytics
 
 <p align="center">
