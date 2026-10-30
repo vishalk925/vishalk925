@@ -1,135 +1,126 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=29&pause=1000&color=F8FAFC&background=0B1020&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Vishal+Sharma;Full-Stack+Developer;Product-Focused+Builder;Building+scalable+systems" alt="Typing banner" />
-</div>
-
-<h1 align="center" style="color:#F8FAFC; font-weight:700;">Vishal Sharma</h1>
-
-<p align="center">
-  <a href="https://github.com/vishalk925" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vishalk925-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishalk925/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vishalk925@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Active-8B5CF6?style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06B6D4?style=for-the-badge" alt="Full Stack Focus" />
-  <img src="https://img.shields.io/badge/Builds-Real%20Products-22C55E?style=for-the-badge" alt="Real Products" />
-</p>
-
----
-
-## Trending Dashboard
+<!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Projects-Portfolio%2C%20Apps-8B5CF6?style=for-the-badge" alt="Projects" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Stack-JavaScript%2C%20React-06B6D4?style=for-the-badge" alt="Stack" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Deployment-Cloud%20Ready-22C55E?style=for-the-badge" alt="Deployment" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Focus-Product%20Engineering-F59E0B?style=for-the-badge" alt="Product Engineering" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Workflow-CI%2FCD-8B5CF6?style=for-the-badge" alt="CI/CD" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Status-Open%20to%20Build-E11D48?style=for-the-badge" alt="Open to Build" />
-      </td>
-    </tr>
-  </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,35:312E81,70:6D28D9,100:0891B2&text=Vishal%20Sharma&fontColor=FFFFFF&fontSize=54&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Builder&descSize=17&descAlignY=56&animation=fadeIn" alt="Vishal Sharma — Full-Stack and Generative AI Developer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Building+AI-Powered+Web+Applications;MERN+Stack+%2B+Generative+AI;Exploring+LLMs%2C+RAG%2C+and+AI+Agents;Turning+Ideas+Into+Intelligent+Products" alt="Animated developer tagline"/>
+
+<br/>
+
+<a href="https://github.com/vishalk925">
+<img src="https://img.shields.io/badge/GitHub-vishalk925-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vishalk925/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vishal-sharma-portfolio-smoky.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a developer who enjoys turning ideas into polished digital products. My work combines clean code, thoughtful UX, strong engineering practices, and scalable web architecture.
+I'm a developer focused on building modern web applications and exploring how Generative AI can make software more useful, interactive, and intelligent.
 
-- Full-stack product development
-- Frontend architecture and UI systems
-- Backend APIs and business logic
-- Deployment-ready and production-minded builds
-- Continuous learning and practical execution
+My primary development focus is the MERN stack, with a growing interest in large language models, AI-powered workflows, and integrating AI capabilities into practical applications.
 
----
+- 💻 Building full-stack applications with React, Node.js, Express, and MongoDB.
+- 🤖 Exploring Generative AI, LLM APIs, prompt engineering, and AI application development.
+- 🧠 Learning about retrieval-augmented generation (RAG), embeddings, and AI agents.
+- ⚙️ Interested in APIs, automation, deployment, and reliable application architecture.
+- 🚀 Focused on building projects that solve real problems.
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+**My approach:** Build the application, understand the underlying technology, test the results, and improve continuously.
 
 ---
 
-## Featured Projects
+## ⚡ Technology Stack
 
-<p align="center">
-  <a href="https://github.com/vishalk925/bloodcare-blood-donation-system">
-    <img src="https://img.shields.io/badge/BloodCare-Full%20Stack%20System-8B5CF6?style=for-the-badge" alt="BloodCare" />
-  </a>
-  <a href="https://github.com/vishalk925/Vishal-Sharma-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Developer%20Portfolio-F59E0B?style=for-the-badge" alt="Portfolio" />
-  </a>
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Full-stack development technologies"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vishalk925/Vishal-Sharma-developer-">
-    <img src="https://img.shields.io/badge/Developer%20Portfolio-UI%2FUX-22C55E?style=for-the-badge" alt="Developer Portfolio" />
-  </a>
-  <a href="https://github.com/vishalk925/Vishal-Sharma-Portfolio-">
-    <img src="https://img.shields.io/badge/Portfolio%20V2-Modern%20Landing%20Page-E11D48?style=for-the-badge" alt="Portfolio V2" />
-  </a>
+### 🤖 Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-Exploring-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM_APIs-Learning-0891B2?style=for-the-badge" alt="LLM APIs"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-Practicing-DB2777?style=for-the-badge" alt="Prompt engineering"/>
+<img src="https://img.shields.io/badge/RAG-Learning-059669?style=for-the-badge" alt="Retrieval-augmented generation"/>
+<img src="https://img.shields.io/badge/AI_Agents-Exploring-D97706?style=for-the-badge" alt="AI agents"/>
 </p>
+
+*AI badges represent learning interests. Update them as you gain practical experience with each technology.*
 
 ---
 
-## Current Focus
+## 🚀 Projects
 
-- Building premium, business-ready products
-- Refining developer experience and maintainability
-- Working on full-stack systems with real impact
-- Improving UI craft and product-first quality
-- Expanding into scalable cloud and automation workflows
+### 🩸 BloodCare — Blood Donation Management System
+
+A full-stack application focused on blood donation workflows and blood-request management.
+
+- Web application development and user workflows.
+- Practical frontend and backend integration.
+- Opportunities to expand notifications, search, and administrative tools.
+
+**Live demo:** https://bloodcare-blood-donation-system.vercel.app/
+
+**Next upgrade:** Explore an AI-assisted FAQ feature that helps users understand the donation process, using verified information and clear safety boundaries.
+
+### 🌱 Smart Village Connect
+
+A village-services platform designed to help citizens access local services.
+
+- Citizen and administrator workflows.
+- Hindi and English interface.
+- Service requests and status tracking.
+
+**Next upgrade:** Explore a multilingual AI assistant that helps users navigate available services and understand application procedures.
+
+### 🤖 Next Project — AI Knowledge Assistant
+
+A planned full-stack application combining MERN with a Generative AI API.
+
+**Planned features:**
+- Chat interface with conversation history.
+- LLM API integration.
+- Document question-answering using RAG.
+- Source references for retrieved documents.
+- Authentication and usage limits.
+- Error handling and secure API key management.
+
+*This is a planned project, not a completed application. Add its repository and live demo after implementation.*
 
 ---
 
-## Connect
+## 🧠 My Generative AI Learning Roadmap
 
-<p align="center">
-  <a href="https://github.com/vishalk925" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishalk925/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-  </a>
-  <a href="https://github.com/vishalk925?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="View repositories" />
-  </a>
-</p>
+| Stage | Skills | Practical outcome |
+|---|---|---|
+| 01 | Prompt engineering and LLM APIs | AI-powered text assistant |
+| 02 | Structured outputs and tool calling | AI assistant that uses application functions |
+| 03 | Embeddings and vector search | Semantic search application |
+| 04 | Retrieval-augmented generation (RAG) | Document question-answering system |
+| 05 | AI agents and workflow orchestration | Multi-step task assistant |
+| 06 | Evaluation, security, and deployment | More reliable AI application |
 
-<p align="center">
-  <i>Code is creativity with structure.</i>
-</p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalk925&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=67E8F9&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk925&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=vish
