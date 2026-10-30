@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8B5CF6&background=0D1117&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Vishal+Kumar;Full-Stack+Developer;Problem+Solver;Building+scalable+products" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=7C3AED&background=0D1117&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Vishal+Kumar;Full-Stack+Developer;Problem+Solver;Building+scalable+products" alt="Typing banner" />
 </div>
 
 <h1 align="center">🚀 Vishal Kumar</h1>
 
 <p align="center">
   <a href="https://github.com/vishalk925" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%20vishalk925-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-vishalk925-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/vishalk925/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,19 +17,21 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalk925&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Active-8B5CF6?style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Repositories-Open-22C55E?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06B6D4?style=for-the-badge" alt="Focus" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build modern digital products that blend functionality, performance, and a strong user experience. My focus is on full-stack development, clean architecture, and creating solutions that solve real-world problems.
+I build modern digital products that combine strong user experience, clean code, and scalable architecture.
 
 - 💻 Full-stack web development
-- ⚙️ API and backend system design
-- ☁️ Deployment and cloud workflows
-- 📊 Product-first thinking and dashboard experiences
+- ⚙️ Backend APIs and system design
+- ☁️ Deployment and production workflows
+- 📊 Product-focused thinking and dashboard experiences
 - 🌱 Constantly learning and shipping better solutions
 
 ---
@@ -51,28 +53,21 @@ I build modern digital products that blend functionality, performance, and a str
 
 ---
 
-## 📊 Trending Dashboard
+## 📊 GitHub Overview
 
-### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalk925&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk925&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <a href="https://github.com/vishalk925" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/vishalk925?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="View repositories" />
+  </a>
+  <a href="https://github.com/vishalk925" target="_blank">
+    <img src="https://img.shields.io/badge/Contribution%20Graph-Open-8B5CF6?style=for-the-badge" alt="Contribution graph" />
+  </a>
 </p>
 
-### Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishalk925&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalk925&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalk925&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+> The stats widgets below depend on external image generation services and may be blocked in some browser wrappers. To keep your profile reliable, the main visible profile now uses stable badge-based sections and direct GitHub links.
 
 ---
 
@@ -80,19 +75,19 @@ I build modern digital products that blend functionality, performance, and a str
 
 <p align="center">
   <a href="https://github.com/vishalk925/bloodcare-blood-donation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalk925&repo=bloodcare-blood-donation-system&theme=radical" alt="BloodCare Project" />
+    <img src="https://img.shields.io/badge/BloodCare-Full%20Stack%20Project-8B5CF6?style=for-the-badge" alt="BloodCare" />
   </a>
   <a href="https://github.com/vishalk925/Vishal-Sharma-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalk925&repo=Vishal-Sharma-Portfolio&theme=radical" alt="Portfolio Project" />
+    <img src="https://img.shields.io/badge/Portfolio-Developer%20Portfolio-F59E0B?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vishalk925/Vishal-Sharma-developer-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalk925&repo=Vishal-Sharma-developer-&theme=radical" alt="Developer Portfolio" />
+    <img src="https://img.shields.io/badge/Developer%20Portfolio-UI%2FUX-22C55E?style=for-the-badge" alt="Developer Portfolio" />
   </a>
   <a href="https://github.com/vishalk925/Vishal-Sharma-Portfolio-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalk925&repo=Vishal-Sharma-Portfolio-&theme=radical" alt="Portfolio V2" />
+    <img src="https://img.shields.io/badge/Profile%20V2-Modern%20Landing%20Page-E11D48?style=for-the-badge" alt="Portfolio V2" />
   </a>
 </p>
 
@@ -103,8 +98,8 @@ I build modern digital products that blend functionality, performance, and a str
 - Building polished full-stack applications
 - Designing clean, scalable frontend experiences
 - Improving backend performance and reliability
-- Exploring modern deployment and automation workflows
-- Creating projects that solve meaningful problems
+- Exploring deployment and automation workflows
+- Creating solutions that solve meaningful problems
 
 ---
 
@@ -121,10 +116,4 @@ I build modern digital products that blend functionality, performance, and a str
 
 <p align="center">
   <i>“Code is creativity with structure.”</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vishalk925?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Repositories-Explore-181717?style=for-the-badge&logo=github" alt="View all repositories" />
-  </a>
 </p>
